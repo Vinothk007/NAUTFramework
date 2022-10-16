@@ -1,0 +1,13 @@
+{
+  "platformName": "iOS",
+  "appium:app": "storage:30f3e033-edfc-42ea-8471-e3ce01ef20d5",
+  "appium:deviceName": "iPhone.*",
+  "appium:platformVersion": "14.8",
+  "appium:appiumVersion": "1.22.0",
+  "appium:unicodeKeyboard": "false",
+  "appium:resetKeyboard": "false",
+  "sauce:options": {
+    "name": "Appium Desktop Session",
+    "noReset": "true"
+  }
+}

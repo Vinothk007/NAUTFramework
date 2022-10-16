@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" data-provider-thread-count="1" name="Suite">
+  <listeners>
+    <listener class-name="retryAnalyser.RetryListener"/>
+  </listeners>
+  <test thread-count="1" parallel="tests" name="Session chrome">
+    <parameter name="instance" value="chrome"/>
+    <classes>
+      <class name="cucumberExecutor.CucumberRunner"/>
+    </classes>
+  </test> <!-- Session chrome -->
+</suite> <!-- Suite -->

@@ -1,0 +1,5 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "Android Emulator",
+  "appium:app": "C:\\Users\\10675365\\Desktop\\Test Mobile Apps\\iOS-Real-Device-MyRNDemoApp.1.3.0-162.apk"
+}

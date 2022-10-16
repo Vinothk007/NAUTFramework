@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "Pixel_4_API_30",
+  "resetKeyboard":true,
+  "unicodeKeyboard":true,
+  "browserName": "chrome"
+}

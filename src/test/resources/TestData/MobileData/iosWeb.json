@@ -1,0 +1,10 @@
+{
+  "platformName": "iOS",
+  "browserName": "Safari",  
+  "appium:deviceName": "iPhone .*",
+  "appium:appiumVersion": "1.22.0",
+  "sauce:options": {
+    "name": "Appium Web Session",
+    "build": "1"
+  }
+}

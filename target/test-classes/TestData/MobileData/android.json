@@ -1,0 +1,11 @@
+{
+  "platformName": "Android",
+  "appium:app": "storage:725383a4-c0cc-491c-99d7-075444f1359c",
+  "appium:deviceName": "Samsung .*",
+  "appium:platformVersion": "12",
+  "appium:appiumVersion": "1.22.0",
+  "sauce:options": {
+    "name": "Appium Mobile Session",
+    "noReset": "true"
+  }
+}
