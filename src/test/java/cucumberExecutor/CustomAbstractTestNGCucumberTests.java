@@ -65,8 +65,8 @@ public abstract class CustomAbstractTestNGCucumberTests{
 			for (int i = 0; i < data.length; i++) {
 				PickleWrapper pickleWrapper = (PickleWrapper)data[i][0];
 				String uri = pickleWrapper.getPickle().getUri().toString();				
-				System.out.println(uri.substring(uri.lastIndexOf('/')+1, uri.indexOf('.'))+" -> "
-						+pickleWrapper.getPickle().getTags().toString());
+				//System.out.println(uri.substring(uri.lastIndexOf('/')+1, uri.indexOf('.'))+" -> "
+				//		+pickleWrapper.getPickle().getTags().toString());
 				if (GlobalVariables.featureList.contains(uri.substring(uri.lastIndexOf('/')+1, uri.indexOf('.')))) {									
 					customObj.add(data[i]);
 				}
