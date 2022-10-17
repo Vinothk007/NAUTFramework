@@ -16,9 +16,6 @@
 		<fillo.version>1.21</fillo.version>
 		<config.version>1.10</config.version>
 
-		<maven.compiler.source>17</maven.compiler.source>
-		<maven.compiler.target>17</maven.compiler.target>
-
 		<log4j.version>2.17.1</log4j.version>
 		<selenium.shutterbug.version>1.5</selenium.shutterbug.version>
 		<ews.version>2.0</ews.version>
