@@ -1,0 +1,6 @@
+{
+  "platformName": "Android",
+  "appium:udid": "811a9a2c",
+  "appium:automationName": "Appium",
+  "appium:app": "\\src\\main\\resources\\MobileApp\\DemoApp.apk"
+}

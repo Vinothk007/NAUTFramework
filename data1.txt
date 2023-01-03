@@ -1,0 +1,38 @@
+SAMPLE “FILLABLE” .PDF FORM 2/22/07 vCS
+from TheWebJockeys.com
+Follow the steps below, and in ﬁve minutes, you’ll become a fan of this new technology!
+. A Fillable Form like this a .PDF form that you first downloaded into your computer
+using the FREE Adobe Reader that your computer already had installed. If needed, Adobe
+Reader downloads at http://www.adobe.com/products/acrobat/readstepZ.html
+o A Fillable Form can be printed on the user’s printer WITH all data that the user has just
+typed into it
+0 Any checkboxes that the user checks will print as checked
+0 A Fillable Form can not be submitted online; as long as only the user's own computer is
+used, there are no security or HIPAA issues
+0 A Fillable Form can be saved only as a blank form Without any data that was just typed
+into it
+o Typed data on a Fillable Form is much more legible than hand—written data, eliminating
+many otherwise unavoidable errors
+. A Fillable Form will photocopy with much higher clarity than any form with hand-written
+data
+0 Fillable Forms save time for all recipients of the form
+OK, let’s get started with the Sample.
+1. Before entering any data, print a blank copy of this form.
+2. On the printed blank copy, write in, by hand, your response to each question.
+3. Point your cursor on the "keys" below on left. They provide optional help for users.
+4. With the blank form displayed on your monitor, type in your response to each
+question. Don’t worry, accuracy and spelling don’t count, & nothing leaves your hands!
+”Your Last Name: PAK
+Your First Name: 8
+Ty es of sports that you watch on TV (select as many as you like):
+CO 5 Football DBaseball .Basketball .NASCAR DHockey
+Date:—
+‘Signature: é L S g
+5. Now print a copy of this form with data entered.
+6. Now save a copy of this form — it will be blank even though you’ve just entered data.
+7. Compare the two printed copies, the hand-written copy and the copy with data
+entered on the computer.
+8. Test the link at the top to adobe.com and the link below, both work directly from this
+.PDF. You can have links to other pages on your site or to bookmarks on a long form.
+9. Contact www.TheWebJockeys.comwith your comments or questions. Thanks!
+

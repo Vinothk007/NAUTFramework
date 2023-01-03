@@ -1,0 +1,8 @@
+Test Report ACCELQ
+1. Invoke Browser Passed
+Input
+URL: https://qbank.acce|q.com
+2. TestLoginAction Passed
+3. TestLogOutAction Failed
+2 of 2
+
