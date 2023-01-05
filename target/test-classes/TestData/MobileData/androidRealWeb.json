@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "Mi 11x",
+  "appium:udid": "811a9a2c",
+  "appium:automationName": "Appium",
+  "resetKeyboard":true,
+  "unicodeKeyboard":true,
+  "browserName": "chrome"
+}
