@@ -13,8 +13,8 @@ Feature: First Application Login
     Then I should be on the TestApp Home page
     And I should see my FirstName "Vinoth" in user title
     
-    And I press Logout button
-    And user closes the browser
+    #And I press Logout button
+    #And user closes the browser
     
     
   
